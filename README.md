@@ -12,7 +12,7 @@
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 📫 How to reach me **jairamvadathya@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ vadathya-jairam-3b1a8b2b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ vadathya-jairam-3b1a8b2b3" height="30" width="40" /></a>
